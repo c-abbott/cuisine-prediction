@@ -7,7 +7,7 @@
 - `scikit-learn`
 - `seaborn` 
 - `scipy`
-- `umap
+- `umap`
 - `pickle`
 
 ## Files
